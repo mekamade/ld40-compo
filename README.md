@@ -19,10 +19,10 @@ In order to comply with the Ludem Dare Compo requirements, here is a list of eve
 
 ## Screenshots
 <p float="left">
-  <img src="https://img.itch.zone/aW1hZ2UvMjE1NDU0LzEwMTk2NzgucG5n/250x600/8IGyIQ.png" width="240" />
-  <img src="https://img.itch.zone/aW1hZ2UvMjE1NDU0LzEwMTk2NzkucG5n/250x600/4Hyzzi.png" width="240" /> 
-  <img src="https://img.itch.zone/aW1hZ2UvMjE1NDU0LzEwMTk2ODAucG5n/250x600/Fu2ROT.png" width="240" />
-  <img src="https://img.itch.zone/aW1hZ2UvMjE1NDU0LzEwMTk2ODEucG5n/250x600/9hkFUS.png" width="240" />
+  <img src="https://img.itch.zone/aW1hZ2UvMjE1NDU0LzEwMTk2NzgucG5n/250x600/8IGyIQ.png" width="350" />
+  <img src="https://img.itch.zone/aW1hZ2UvMjE1NDU0LzEwMTk2NzkucG5n/250x600/4Hyzzi.png" width="350" /> 
+  <img src="https://img.itch.zone/aW1hZ2UvMjE1NDU0LzEwMTk2ODAucG5n/250x600/Fu2ROT.png" width="350" />
+  <img src="https://img.itch.zone/aW1hZ2UvMjE1NDU0LzEwMTk2ODEucG5n/250x600/9hkFUS.png" width="350" />
 </p>
 
 ## How-to-Play:
